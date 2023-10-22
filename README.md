@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @hannahfinn
   
 - All repositories are private for academic integrity purposes. They are fully accessible to third parties via access request. Please reach out on LinkedIn (linkedin.com/in/hannah-finn/) or contact me via email at hfinn@bu.edu.
+- Private Projects:
+  - Crypto-bot: Decryption of Messages from Remote Server (C)
+  - Cache Simulator: Simulated Version of Cache Storage (C)
+  - Plaigerism Checker: Statistical tool to compare literary works and identify similar writing style (Python)
+  - Spark! Bytes Website: Reactive and interactive program sign-up website (HTML, CSS, JS)
+  - Sociological Research Proposal: Radicalized Aggression on Anonymous Twitter 
 
 
 
