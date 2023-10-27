@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannahfinn
   
-- Repositories for class projects are private for academic integrity purposes. They are fully accessible to third parties via access request. Please reach out on LinkedIn (linkedin.com/in/hannah-finn/) or contact me via email at hfinn@bu.edu.
+- Repositories for class projects are private for academic integrity purposes. They are fully accessible to third parties via access request. Please contact me via LinkedIn (linkedin.com/in/hannah-finn/) or email at hfinn@bu.edu.
 - Private Projects:
   - Crypto-bot: Decryption of Messages from Remote Server (C)
   - Cache Simulator: Simulated Version of Cache Storage (C)
