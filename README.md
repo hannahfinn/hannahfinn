@@ -5,9 +5,8 @@
   - Crypto-bot: Decryption of Messages from Remote Server (C)
   - Cache Simulator: Simulated Version of Cache Storage (C)
   - Plaigerism Checker: Statistical tool to compare literary works and identify similar writing style (Python)
-  - Spark! Bytes Website: Reactive and interactive program sign-up website (https://spark-bytes-team-2-hfinn77s-projects.vercel.app/)
   - Sociological Research Proposal: Radicalized Aggression on Anonymous Twitter
-
+- Event Sign-up and Creation Website (React.js, Next.js, Typescript): https://spark-bytes-team-2-hfinn77s-projects.vercel.app/
 
 
 
